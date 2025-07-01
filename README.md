@@ -98,7 +98,7 @@ git clone https://github.com/Seif302010/Idemtity-Verfication-API.git
 cd Idemtity-Verfication-API
 
 # 2. Install Python dependencies
-pip install -r requirements.txt
+pip install -r dependencies.txt
 
 # 3. Install Tesseract OCR
 # For Ubuntu/Debian:
